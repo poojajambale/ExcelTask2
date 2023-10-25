@@ -1,0 +1,12 @@
+fileFolder = C:\\Users\\PJAMBALE\\Desktop\\New folder
+
+folderPath = C:\\Users\\PJAMBALE\\Desktop
+
+file1 = C:\\Users\\PJAMBALE\\Desktop\\New folder\\HCMEL report.xlsx
+file2 = C:\\Users\\PJAMBALE\\Desktop\\New folder\\Fresher Master Data .xlsx
+
+sheetNo1 = 
+sheetNo2 = 
+
+key1 = 
+key2 = 
